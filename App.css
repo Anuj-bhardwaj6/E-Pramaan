@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Page container padding for small screens */
+@media (max-width: 600px) {
+  .page-container {
+    padding: 12px;
+  }
+}
