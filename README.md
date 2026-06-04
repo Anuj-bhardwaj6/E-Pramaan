@@ -7,7 +7,6 @@ A low-cost, user-friendly *Automated Attendance System* for rural schools using 
 ## 🔗 Repository
 Clone this repository:
 ```bash
-git clone https://github.com/SIHLPU/Hackaton.git
 cd Hackaton
 📦 Install Dependencies
 bash
